@@ -8,6 +8,7 @@
  - **Muhammad Hussain** - Project Manager, UI/UX Design
  - **Ansil** - Frontend Developer
  - **Rameez** - Frontend Developer
+ - **Thejas** - Frontend Developer
  
  ## Features
  
