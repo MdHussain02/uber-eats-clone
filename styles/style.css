@@ -1,0 +1,21 @@
+
+.threeline{
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+
+.threeline div{
+    width: 18px;
+    height: 2px;
+    background: #000;
+    margin-top: 4px;
+}
+.head{
+    margin-top: 20px;
+    display: flex;
+}
+.h5{
+    margin-left: 10px;
+    margin-top: 10px;
+}
