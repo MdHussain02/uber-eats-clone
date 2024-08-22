@@ -1,5 +1,5 @@
 body{
-    height: 10000dvh;
+    height: 1000dvh;
     background: url(./assets/c413f20400e04805.webp);
     background-repeat: no-repeat;
     background-size:contain;
@@ -119,6 +119,8 @@ select:focus{
 .search-section a{
     color: #000;
 }
+
+/* ------ for white hero ------ */
 .white-hero{
     height: 1000vh;
     margin-top: 500px;
@@ -148,3 +150,4 @@ select:focus{
     color: #000;
     font-size: 16px;
 }
+
