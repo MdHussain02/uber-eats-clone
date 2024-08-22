@@ -1,0 +1,32 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+h1,
+h2 {
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.form-control,
+.form-text,
+.input-group-text,
+.btn {
+    background-color: #333;
+    border: 1px solid #444;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #1a73e8;
+    border-color: #1a73e8;
+}
+
+.form-control::placeholder {
+    color: #999;
+}
