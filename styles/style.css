@@ -32,3 +32,6 @@ font-size: 15px;
 .btndark:hover{
 background-color: #313131;
 }
+.head-container{
+background:url("./");
+}
