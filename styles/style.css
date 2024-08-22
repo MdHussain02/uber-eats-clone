@@ -168,3 +168,68 @@ select:focus{
     padding-left: 200px;
     padding-top: 100px;
 }
+.cities-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+  }
+  
+  .cities-table td {
+    padding: 8px;
+    text-align: left;
+    border: none;
+  }
+  
+  .table-container{
+    margin-top: 30px;
+    margin-left: 100px;
+  }
+  .cities-table td:nth-child(1) {
+    color: #464646;
+  }
+  
+  .cities-table td:nth-child(2) {
+    color: #464646;
+  }
+  
+  .cities-table td:nth-child(3) {
+    color: #464646;
+  }
+  
+  .cities-table td:nth-child(4) {
+    color: #464646;
+  }
+
+
+  .countries-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+  }
+  
+  .countries-table td {
+    padding: 8px;
+    text-align: left;
+    border: none;
+  }
+  
+  .ct-table{
+    margin-top: 30px;
+    margin-left: 100px;
+
+  }
+  .countries-table td:nth-child(1) {
+    color: #464646;
+  }
+  
+  .countries-table td:nth-child(2) {
+    color: #464646;
+  }
+  
+  .countries-table td:nth-child(3) {
+    color: #464646;
+  }
+  
+  .countries-table td:nth-child(4) {
+    color: #464646;
+  }
