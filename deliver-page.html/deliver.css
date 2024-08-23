@@ -150,7 +150,7 @@ section {
 
 article{
     width: 100%;
-    min-height: 40vh;
+    min-height: 20vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -158,5 +158,77 @@ article{
 
 #download-app{
     background-color: aliceblue;
-    
+}
+#download-app h1{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+aside{
+    width: 60%;
+    min-height: 10vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#qr-code{
+    background-color: #f8f6f6;
+
+}
+#qr-code span{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    flex-direction: column;
+}
+
+
+/* -----------Footer----------- */
+
+footer{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer-part{
+    background-color: black;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#first-link{
+    font-size: 25px;
+    text-decoration: none;
+    color: floralwhite;
+    /* margin-left: 5%; */
+}
+#second-link{
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    border-bottom: 2px solid transparent;
+}
+#second-link:hover{
+    border-bottom: 2px solid  white;
+}
+
+#footer-part p{
+    font-size: 18px;
+    font-weight: 500;
+    color: floralwhite;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#footer-part a{
+    font-size: 13px;
+    text-decoration: none;
+    color: #fff;
+    display: block;
+}
+#footer-part a:hover{
+    color: #777171;
+}
+#footer-part i{
+    color: #fff;
 }
