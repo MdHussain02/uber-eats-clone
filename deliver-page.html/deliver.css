@@ -164,6 +164,8 @@ article{
     font-weight: 700;
 }
 
+/* ---------------QR code, scan and download----------------- */
+
 aside{
     width: 60%;
     min-height: 10vh; 
@@ -184,7 +186,8 @@ aside{
 }
 
 
-/* -----------Footer----------- */
+
+/* -------------------Footer-------------------- */
 
 footer{
     width: 100%;
@@ -198,12 +201,18 @@ footer{
     background-color: black;
     font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+/* ---------------firstlink=>Uber----------------- */
+
 #first-link{
-    font-size: 25px;
+    font-size: 30px !important;
     text-decoration: none;
     color: floralwhite;
     /* margin-left: 5%; */
 }
+
+/* ---------------secondlink=>vist help center----------------- */
+
 #second-link{
     font-size: 15px;
     text-decoration: none;
@@ -214,12 +223,17 @@ footer{
     border-bottom: 2px solid  white;
 }
 
+/* ---------------footer all p tages style----------------- */
+
 #footer-part p{
     font-size: 18px;
     font-weight: 500;
     color: floralwhite;
     font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+/* ---------------footer all a tages style----------------- */
+
 #footer-part a{
     font-size: 13px;
     text-decoration: none;
@@ -229,6 +243,33 @@ footer{
 #footer-part a:hover{
     color: #777171;
 }
+
+/* ---------------footer all icons style----------------- */
+
 #footer-part i{
     color: #fff;
 }
+
+/* ---------------Google playstore Apple store------------------ */
+
+#store a{
+    display: inline;
+}
+#store img{
+    width: 150px !important; 
+}
+
+/* -----------------copyright----------------- */
+
+#footer-part pre{
+    color: #c3baba !important;
+    font-size: 13px;
+}
+
+#last-footer a{
+    display: inline;
+}
+
+
+
+ /* -------------------------------------------------------------  END  ------------------------------------------------------------  */
